@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Felipe Jorge Lopes | Portfólio Back-End</h1>
-  <p><b>Assistente de Desenvolvimento @ PicPay | Foco em Back-End</b></p>
+  <p><b>Assistente de Desenvolvimento @ PicPay</b></p>
   
   <p>
     <a href="#sobre-e-foco">Sobre</a> •
@@ -48,7 +48,6 @@ O portfólio não demanda Node.js ou bundlers estritos, apenas atua como um webs
 Caso de uso corporativo, network ou colaborações de código, meus contatos centrais:
 
 - **Linkedin:** [Felipe Jorge Lopes](https://www.linkedin.com/in/felipe-jorge-6393a8324/)
-
 <div align="center">
   <sub>Construído sem Frameworks (Vanilla)</sub>
 </div>
