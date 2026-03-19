@@ -16,9 +16,8 @@ Este repositório contém o código-fonte do meu **Portfólio Profissional**, cr
 
 Minhas principais competências técnicas incluem:
 - Construção de **APIs RESTful** escaláveis e manutenção de microsserviços.
-- Persistência e modelagem de dados complexos com **PostgreSQL** e **MongoDB**.
-- Automação em **Python**, orquestração com **Docker** e familiaridade com ecossistemas **Linux**.
-- Integrações assíncronas e alta concorrência usando **Golang** e **Java**.
+- Persistência e modelagem de dados com **PostgreSQL** e **MongoDB**.
+- Integrações usando **Golang** e **Java**.
 - Controle de versão e colaboração ágil com **Git** e **GitHub**.
 
 ---
@@ -48,9 +47,7 @@ O portfólio não demanda Node.js ou bundlers estritos, apenas atua como um webs
 ## Contato
 Caso de uso corporativo, network ou colaborações de código, meus contatos centrais:
 
-- **LinkedIn:** [Felipe Jorge Lopes](https://www.linkedin.com/in/felipe-jorge-6393a8324/)
-- **GitHub:** [felipejorgel](https://github.com/felipejorgel)
-- **E-mail:** seumatricula.felipe@exemplo.com
+- **Linkedin:** [Felipe Jorge Lopes](https://www.linkedin.com/in/felipe-jorge-6393a8324/)
 
 <div align="center">
   <sub>Construído sem Frameworks (Vanilla)</sub>
